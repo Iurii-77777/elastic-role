@@ -2,6 +2,14 @@ galaxy_info:
   author: Alexey Metlyakov
   description: Install elasticsearch from remote server
   company: Netology
+  role_name: my_name 
+  namespace: my_galaxy_namespace 
+  platforms:
+  - name: CentOS
+    versions: 8
+  - name: ubuntu
+    versions: latest
+
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
